@@ -1,8 +1,24 @@
-## Kubernetes Kickstarter
+# Kubernetes Engineering Lab ☸️
 
-### Kubernetes In One Shot
+A hands-on Kubernetes repository demonstrating container orchestration, workload management, networking, autoscaling, security, storage, and deployment strategies.
 
-Learn Kubernetes concepts in a 12 hour tutorial by TrainWithShubham [here](https://youtu.be/W04brGNgxN4?si=KuUs-ajJOE7TfYs-)
+This repository contains practical Kubernetes configurations and examples covering real-world DevOps concepts including:
+
+- Kubernetes Deployments, Services and Pods
+- Helm charts and reusable application packaging
+- Horizontal and Vertical Pod Autoscaling (HPA/VPA)
+- Ingress and traffic management
+- RBAC, Roles, RoleBindings and Service Accounts
+- Persistent Volumes and Persistent Volume Claims
+- ConfigMaps and Secrets
+- Taints and Tolerations
+- Rolling, Blue-Green and Canary deployment strategies
+- Kubernetes CI/CD integration
+- Amazon EKS, KIND, Minikube and kubeadm cluster setup
+
+## 🛠️ Technologies
+
+`Kubernetes` `Amazon EKS` `Helm` `Docker` `YAML` `KIND` `Minikube` `Linux` `CI/CD`
 
 ## Architecture Guides
 
